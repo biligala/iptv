@@ -1,9 +1,11 @@
-#EXTM3U thanh51
+#EXTM3U  url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/hoctructuyenltvqt/_/rsrc/1501688468765/home/thongbao.jpg" group-title="Luu ý tru?c khi xem TV !",Path gg.gg/eywpz liên t?c update - Khi m? chuong trình b?n b?m nút Refresh (hình tròn có d?u mui tên góc trên cùng bên ph?i màn hình) d? du?c c?p nh?t kênh m?i. Cài d?t app Ace stream Media d? xem kênh bóng dá có link P2P.
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/hoctructuyenltvqt/_/rsrc/1501688468765/home/thongbao.jpg" group-title="Lưu ý trước khi xem TV !",Path gg.gg/eywpz liên tục update - Khi mở chương trình bạn bấm nút Refresh (hình tròn có đầu mũi tên góc trên cùng bên phải màn hình) để được cập nhật kênh mới. Cài đặt app Ace stream Media để xem kênh bóng đá có link P2P.
 http://
 
 
 
-#EXTINF:-1 tvg-logo="https://image-2.gapo.vn/images/919a4daf-b3fc-4d6d-9a8b-c9ac80d33a32.jpeg" group-title="Bóng Đá (90p.live)",28/11 22:00 Manchester City - Burnley
-https://xem.binhluanvidamme.online/60353498a6651b39e6741ec2.html?link=2
+
+
+#EXTINF:-1 tvg-logo="https://manhtuongmedia.com/wp-content/uploads/2018/06/bongda.png" group-title="Bóng Đá",27/02 19:30 Ngoại Hạng Anh* Manchester City vs West Ham United
+https://xem.binhluanvidamme.online/60353498a6651b39e6741ec2.html?link=0

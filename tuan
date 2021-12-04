@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 http://gg.gg//eywpz
 #EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=4 refresh="3600"
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=5 refresh="3600"
 
 
 
 
-#EXTM3U
-#EXTVLCOPT:http-user-agent=D3n1s
-#EXTINF:-1 group-title="CaKhiaTV" tvg-logo="https://ae788.com/wp-content/uploads/2021/07/Cakhia-link-hua-hen-se-phuc-vu-moi-nhu-cau-giai-tri-cua-NHM.jpg",BD 1
-#EXTVLCOPT:http-user-agent=D3n1s
-https://mitomlive.net/truc-tiep/yokohama-vs-yokohama-f-m-1600-25-09/?link=1
 
+
+#EXTINF:-1 tvg-logo="https://90phuttt.xyz/images/logo-01.png" group-title="veboTV",22:00 04/12 Wolves - Liverpool
+https://www.vebotv.live/truc-tiep/liverpool-wolverhampton-I76q18D
